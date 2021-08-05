@@ -1,7 +1,7 @@
 {
     "license": "MIT",
-    "version": "2.0.1",
-    "author": "ctf0",
+    "version": "2.0.2",
+    "author": "mareshyn",
     "name": "laravel-mix-versionhash",
     "main": "src/index.js",
     "description": "auto append hash to file name",
